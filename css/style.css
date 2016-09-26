@@ -197,8 +197,8 @@ label.line {
 }
 .about img {
     width: 10%;
-    border-radius: 50%;
-	margin-top:35px;
+    border-radius: 15%;
+	margin-top:15px;
 }
 .about p{
 	text-align:center;
