@@ -6,10 +6,7 @@
 --*/
 
 /*-- Reset Code --*/
-h1,h2,h3
-{
-	font-family:century gothic;
-}
+
 body {
 	padding: 0;
 	margin: 0;
@@ -41,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto', 'century gothic';
 	letter-spacing:1px;
 }
 p {
