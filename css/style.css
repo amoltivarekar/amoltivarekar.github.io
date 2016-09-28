@@ -43,8 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 p {
 	margin:0;
-	font-family:'century gothic';
-	font-size:30px;
+	font-family: 'Merriweather Sans', sans-serif;
 }
 ul {
 	margin:0;
